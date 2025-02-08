@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+boto3
+PyMuPDF
+python-dotenv
+docling==2.15.1
+python-multipart
+requests
+bs4
+azure-ai-formrecognizer
+pydantic
+streamlit>=1.28.0
+Pillow>=10.0.0
+urllib3>=2.0.7
+uuid
+asyncio
