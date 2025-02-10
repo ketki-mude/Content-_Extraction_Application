@@ -75,14 +75,5 @@ The system integrates **PyMuPDF, BeautifulSoup, Azure, Apify, and Docling** to e
 
 ---
 
-## **🔹 Contributions**
-| **Name** | **Contribution** |
-|----------|----------------|
-| **Janvi Bharatkumar Chitroda** | 33% - Extracted PDF and website content from **Enterprise**, created **FastAPIs**, and worked on **deployment**. |
-| **Ketki Mude** | 33% - Extracted PDF and website content from **Docling**, created **FastAPIs**, integrated **Streamlit with AWS**, worked on **diagrams and Codelabs**. |
-| **Sahil Mutha** | 33% - Extracted PDF and website content from **Open Source**, created **FastAPIs**, worked on **AWS S3**, and integrated **APIs with S3**. |
-
----
-
 ## **🔹 Attestation**
 **WE CERTIFY THAT WE HAVE NOT USED ANY OTHER STUDENTS' WORK IN OUR ASSIGNMENT AND COMPLY WITH THE POLICIES OUTLINED IN THE STUDENT HANDBOOK.**
